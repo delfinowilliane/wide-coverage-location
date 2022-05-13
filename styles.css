@@ -1,0 +1,97 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header-menu {
+    margin-top: 47px;
+}
+
+#header-menu a {
+    height: 21px;
+    width: 79px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    text-decoration: none;
+    margin-left: 36px;
+    cursor: pointer;
+}
+
+#header-menu button {
+    height: 51px;
+    width: 124px;
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    margin-left: 36px;
+    cursor: pointer;
+}
+
+#main img {
+    height: 500px;
+    width: 595px;
+    margin-top: 246px;
+    margin-left: 121px;
+    position: absolute;
+    display: inline;
+}
+
+h2 {
+    height: 164px;
+    width: 582px;
+    display: inline;
+    position: absolute;
+    margin-left: 801px;
+    margin-top: 342px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.5px;
+    color: #161A49;
+}
+
+p {
+    height: 99px;
+    width: 493px;
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 801px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A; 
+}
+
+#main a {
+    position: absolute;
+    margin-top: 707px;
+    margin-left: 801px; 
+    height: 27px;
+    width: 122px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    width: 1440px;
+    height: 179px;
+    margin-top: 734px;
+}
