@@ -1,7 +1,7 @@
 # wide-coverage-location
  
  <div alig="center">
-<img src="https://user-images.githubusercontent.com/97769685/168375948-5bde1dce-a412-41c5-b2cf-111247762ec7.png" height="400">
+<img src="https://user-images.githubusercontent.com/97769685/168378285-5b14fa94-3c00-4a51-a5de-0d205133a10c.png" height="400">
 <img src="https://user-images.githubusercontent.com/97769685/168375936-8f59b8c7-291a-4965-b19f-198eac75d854.png" height="400">
  
 </div>
