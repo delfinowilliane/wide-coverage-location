@@ -41,7 +41,7 @@
 #main img {
     height: 500px;
     width: 595px;
-    margin-top: 246px;
+    margin-top: 206px;
     margin-left: 121px;
     position: absolute;
     display: inline;
@@ -53,7 +53,7 @@ h2 {
     display: inline;
     position: absolute;
     margin-left: 801px;
-    margin-top: 342px;
+    margin-top: 302px;
     font-weight: 700;
     font-size: 62px;
     line-height: 82px;
@@ -65,7 +65,7 @@ p {
     height: 99px;
     width: 493px;
     position: absolute;
-    margin-top: 553px;
+    margin-top: 513px;
     margin-left: 801px;
     font-weight: 400;
     font-size: 18px;
@@ -76,8 +76,8 @@ p {
 
 #main a {
     position: absolute;
-    margin-top: 707px;
-    margin-left: 801px; 
+    margin-top: 687px;
+    margin-left: 781px; 
     height: 27px;
     width: 122px;
     font-weight: 500;
@@ -93,5 +93,5 @@ footer {
     position: absolute;
     width: 1440px;
     height: 179px;
-    margin-top: 734px;
+    margin-top: 694px;
 }
